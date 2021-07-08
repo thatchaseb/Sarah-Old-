@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/SarahBrackett/static/css/main.a482d78d.chunk.css",
+    "main.js": "/SarahBrackett/static/js/main.2f8c9a60.chunk.js",
+    "main.js.map": "/SarahBrackett/static/js/main.2f8c9a60.chunk.js.map",
+    "runtime-main.js": "/SarahBrackett/static/js/runtime-main.7f479e8b.js",
+    "runtime-main.js.map": "/SarahBrackett/static/js/runtime-main.7f479e8b.js.map",
+    "static/js/2.2ecf0cd3.chunk.js": "/SarahBrackett/static/js/2.2ecf0cd3.chunk.js",
+    "static/js/2.2ecf0cd3.chunk.js.map": "/SarahBrackett/static/js/2.2ecf0cd3.chunk.js.map",
+    "index.html": "/SarahBrackett/index.html",
+    "static/css/main.a482d78d.chunk.css.map": "/SarahBrackett/static/css/main.a482d78d.chunk.css.map",
+    "static/js/2.2ecf0cd3.chunk.js.LICENSE.txt": "/SarahBrackett/static/js/2.2ecf0cd3.chunk.js.LICENSE.txt",
+    "static/media/Background.586acb81.jpg": "/SarahBrackett/static/media/Background.586acb81.jpg",
+    "static/media/Headshot.ebf4bb34.jpg": "/SarahBrackett/static/media/Headshot.ebf4bb34.jpg",
+    "static/media/News1.c0b6e531.jpg": "/SarahBrackett/static/media/News1.c0b6e531.jpg",
+    "static/media/News10.d62bbe63.jpg": "/SarahBrackett/static/media/News10.d62bbe63.jpg",
+    "static/media/News11.c377bcda.jpg": "/SarahBrackett/static/media/News11.c377bcda.jpg",
+    "static/media/News12.b988b086.jpg": "/SarahBrackett/static/media/News12.b988b086.jpg",
+    "static/media/News2.54f43da4.jpg": "/SarahBrackett/static/media/News2.54f43da4.jpg",
+    "static/media/News3.6ec07e45.jpg": "/SarahBrackett/static/media/News3.6ec07e45.jpg",
+    "static/media/News4.d62bbe63.jpg": "/SarahBrackett/static/media/News4.d62bbe63.jpg",
+    "static/media/News5.c377bcda.jpg": "/SarahBrackett/static/media/News5.c377bcda.jpg",
+    "static/media/News6.b988b086.jpg": "/SarahBrackett/static/media/News6.b988b086.jpg",
+    "static/media/News7.c0b6e531.jpg": "/SarahBrackett/static/media/News7.c0b6e531.jpg",
+    "static/media/News8.54f43da4.jpg": "/SarahBrackett/static/media/News8.54f43da4.jpg",
+    "static/media/News9.6ec07e45.jpg": "/SarahBrackett/static/media/News9.6ec07e45.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f479e8b.js",
+    "static/js/2.2ecf0cd3.chunk.js",
+    "static/css/main.a482d78d.chunk.css",
+    "static/js/main.2f8c9a60.chunk.js"
+  ]
+}
